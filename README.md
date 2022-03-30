@@ -44,5 +44,6 @@ A ideia dos exercícios é passar um pouco por cada um desses conceitos principa
 11. Criar o recurso PATCH /orders/id que recebe o objeto abaixo e atualiza o status da order no banco
 ```
 {"status":"COOKING"}
-```
 Possíveis status: REQUESTED / COOKING / DELIVERING / DELIVERED
+```
+
