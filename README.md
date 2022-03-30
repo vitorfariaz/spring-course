@@ -10,18 +10,20 @@ Alguns exercícios vou escreve-los de forma que não fique tão explícito o que
 Exemplo de exercício: <br />
 Crie uma API que retorna uma exceção quando chamar o recurso base da API `localhost:porta/` <br />
 
-Nesse caso você terá que inicializar um projeto Spring, podendo usar o [Spring initializr](https://start.spring.io/), baixar as dependencias do Web e subir na sua máquina local o projeto e ver se quando chama o recurso `localhost:8080/` está retornando uma exceção do servidor que foi levantado junto com o Spring. Porém a forma como você vai fazer tudo isso é transparente, entende? <br />
-
+Nesse caso você terá que inicializar um projeto Spring, podendo usar o [Spring initializr](https://start.spring.io/), baixar as dependencias do Web e subir na sua máquina local o projeto e ver se quando chama o recurso `localhost:8080/` está retornando uma exceção do servidor que foi levantado junto com o Spring. Porém Não vou passar esses detalhes do COMO fazer no exercício, entende? <br />
 
 
 O Spring disponibiliza vários "recursos" para nós
- - Client Http(WebClient / RestTemplate)
+ - Client Http (WebClient / RestTemplate)
  - Mensageria (Cloud Stream / Kafka)
  - Conexão com banco de dados (Jpa repositories / MongoDB )
  - Criação de API's (Controller)
  - Entre outros
 
-A ideia dos exercícios é passar um pouco por cada um desses conceitos principais. Então o exercício é o seguinte, nós iremos criar uma API responsável por todo o "backend" de uma loja de pizzas. Ela vai gerenciar desde os pedidos de pizzas feito por um site até o acompanhamento de status(Pedido recebido, cozinhando, em rota de entrega, entregue) etc... Ao final de todo o projeto, nós teremos a conclusão dessa API. Porém vamos começar com exercícios bem simples e ir incrementando aos poucos essa API, não precise se preocupar achando que será algo muito complexo, a ideia é começar bem simples.
+A ideia dos exercícios é passar um pouco por cada um desses conceitos principais. Então o exercício é o seguinte, nós iremos criar uma API responsável por todo o "backend" de uma loja de pizzas. Ela vai gerenciar os pedidos de pizzas feito por um site, o acompanhamento de status(Pedido recebido, cozinhando, em rota de entrega, entregue) etc... Ao final de todo o projeto, nós teremos a conclusão dessa API completa e teremos aprendido vários conceitos durante. <br />
+Porém começaremos com exercícios bem simples e ir incrementando a complexidade da API aos poucos, não precise se preocupar achando que será algo muito complexo, a ideia é começar bem simples. <br />
+
+E qualquer dúvida você pode entrar em contato comigo (instagram [@vitorfariaz](https://www.instagram.com/vitorfariaz/) ou [linkedIn](https://www.linkedin.com/in/vitor-farias-a60760121/)) que terei o maior prazer em lhe ajudar
 
 [Curso Spring](https://www.youtube.com/watch?v=LXRU-Z36GEU)
 
