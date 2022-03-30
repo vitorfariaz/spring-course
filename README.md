@@ -23,7 +23,7 @@ O Spring disponibiliza vários "recursos" para nós
 A ideia dos exercícios é passar um pouco por cada um desses conceitos principais. Então o exercício é o seguinte, nós iremos criar uma API responsável por todo o "backend" de uma loja de pizzas. Ela vai gerenciar os pedidos de pizzas feito por um site, o acompanhamento de status(Pedido recebido, cozinhando, em rota de entrega, entregue) etc... Ao final de todo o projeto, nós teremos a conclusão dessa API completa e teremos aprendido vários conceitos durante. <br />
 Porém começaremos com exercícios bem simples e ir incrementando a complexidade da API aos poucos, não precise se preocupar achando que será algo muito complexo, a ideia é começar bem simples. <br />
 
-E qualquer dúvida você pode entrar em contato comigo (instagram [@vitorfariaz](https://www.instagram.com/vitorfariaz/) ou [linkedIn](https://www.linkedin.com/in/vitor-farias-a60760121/)) que terei o maior prazer em lhe ajudar
+E qualquer dúvida você pode entrar em contato comigo ([instagram](https://www.instagram.com/vitorfariaz/) ou [linkedIn](https://www.linkedin.com/in/vitor-farias-a60760121/)) que terei o maior prazer em lhe ajudar
 
 [Curso Spring](https://www.youtube.com/watch?v=LXRU-Z36GEU)
 
