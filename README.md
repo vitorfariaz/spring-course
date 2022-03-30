@@ -31,9 +31,10 @@ E qualquer dúvida você pode entrar em contato comigo ([instagram](https://www.
 ## Exercícios
 
 1. Criar um projeto spring e subir localmente e chamar localhost/ pra ver se subiu mesmo
-2. Criar uma classe @Service e colocar system.out.println() no construtor para ver que o spring cria a classe
-3. Criar o recurso GET /orders, que retorne "hello world"
-4. Criar o recurso POST /orders, que recebe um objeto abaixo e retorna "Hello, 5 CHEESES"
+2. Criar uma classe com a anotação @Service nela e colocar System.out.println() no construtor para ver nos logs que o spring instância a classe quando é iniciado o um projeto spring
+
+4. Criar o recurso GET /orders, que retorne "hello world"
+5. Criar o recurso POST /orders, que recebe um objeto abaixo e retorna "Hello, 5 CHEESES"
 ```
 {"flavour" : "5 CHEESES"}
 ```
